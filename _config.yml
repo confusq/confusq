@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Heshunfa"
 description              : "You can look back on the road, but you can't go back on it. "
-repository               : "confusq/shunfa.github.io"
+repository               : "shunfa/shunfa.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
