@@ -8,8 +8,8 @@
 # Site Settings
 title                    : "Heshunfa"
 description              : "You can look back on the road, but you can't go back on it. "
-repository               : "shunfa.github.io"
-google_scholar_stats_use_cdn : false
+repository               : "shunfa.github.io/heshunfa"
+google_scholar_stats_use_cdn : TRUE
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
