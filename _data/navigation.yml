@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "confusq/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "confusq/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "confusq/#-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "confusq/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "confusq/#-educations"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "confusq/#-invited-talks"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "confusq/#-internships"
