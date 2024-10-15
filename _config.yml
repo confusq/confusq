@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "贺顺发-学术博客 "
+title                    : "shunfa He "
 description              : "You can look back on the road, but you can't go back on it. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : TRUE
